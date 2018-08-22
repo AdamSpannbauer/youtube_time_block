@@ -17,3 +17,10 @@ Hides the following when your browsing YouTube:
 <p align='center'>
 <img src='example.png' width=75%>
 </p>
+
+## Install
+
+(I don't want to pay Google the $5 it takes to deploy this to the web store)
+
+* Clone this repo (or download as zip and unzip)
+* Follow these instructions from [a9t9](https://a9t9.com/howto/install-chrome-extension-from-file) to install a chrome extension from file

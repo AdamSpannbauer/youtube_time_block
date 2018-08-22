@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "YouTube Time Blocker",
+  "description": "Block video times & progress bars on YouTube to avoid spoilers caused by video duration.",
   "version": "0.1",
   "content_scripts": [{
     "all_frames": true,

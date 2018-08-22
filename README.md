@@ -1,8 +1,4 @@
-# Block YouTube Times 
-
-<p align='right'>
-<img src='icon128.png'>
-</p>
+# Block YouTube Times <img src='icon128.png' align='right'>
 
 ##### Chrome extension to block YouTube's times/progress bar to avoid spoilers from video length.
 
